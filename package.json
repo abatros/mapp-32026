@@ -15,7 +15,7 @@
     "dictionary-de": "^2.0.0",
     "dictionary-en-us": "^2.0.0",
     "dictionary-fr": "^2.2.0",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-device": "^0.4.2",
     "express-fileupload": "^1.1.1-alpha.2",
     "express-formidable": "^1.2.0",
